@@ -1,0 +1,63 @@
+com.planradar.weatherassessment.app-ui-release-0 /Users/apple/.gradle/caches/8.10.2/transforms/02c478ec177721237f442007c919d56f/transformed/ui-release/res
+com.planradar.weatherassessment.app-sqlite-2.4.0-1 /Users/apple/.gradle/caches/8.10.2/transforms/030cd29351fe30f8840f68f086f3f87a/transformed/sqlite-2.4.0/res
+com.planradar.weatherassessment.app-navigation-compose-2.7.6-2 /Users/apple/.gradle/caches/8.10.2/transforms/03c63a542a3ee81be66c42742396d034/transformed/navigation-compose-2.7.6/res
+com.planradar.weatherassessment.app-profileinstaller-1.3.1-3 /Users/apple/.gradle/caches/8.10.2/transforms/06056fac73211582a1f209ea0f746d3a/transformed/profileinstaller-1.3.1/res
+com.planradar.weatherassessment.app-navigation-runtime-ktx-2.7.6-4 /Users/apple/.gradle/caches/8.10.2/transforms/0b62d61a679594125ec78c58b1f9decb/transformed/navigation-runtime-ktx-2.7.6/res
+com.planradar.weatherassessment.app-animation-release-5 /Users/apple/.gradle/caches/8.10.2/transforms/13a3cca0449a2ee289a5236068ddca42/transformed/animation-release/res
+com.planradar.weatherassessment.app-activity-compose-1.8.0-6 /Users/apple/.gradle/caches/8.10.2/transforms/1882d3c6702ddfaf90f891f007fc613c/transformed/activity-compose-1.8.0/res
+com.planradar.weatherassessment.app-emoji2-1.3.0-7 /Users/apple/.gradle/caches/8.10.2/transforms/23d84a161ea21ab2116311094a1a7282/transformed/emoji2-1.3.0/res
+com.planradar.weatherassessment.app-lifecycle-viewmodel-savedstate-2.6.2-8 /Users/apple/.gradle/caches/8.10.2/transforms/2531ae4113ae963a304975fa88c89e91/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.planradar.weatherassessment.app-hilt-navigation-compose-1.2.0-9 /Users/apple/.gradle/caches/8.10.2/transforms/33e3360661a4227d61a6aa7ecde1f0d6/transformed/hilt-navigation-compose-1.2.0/res
+com.planradar.weatherassessment.app-lifecycle-viewmodel-compose-2.6.2-10 /Users/apple/.gradle/caches/8.10.2/transforms/364718e34474c5ecc485f88cabb4f6cb/transformed/lifecycle-viewmodel-compose-2.6.2/res
+com.planradar.weatherassessment.app-ui-tooling-preview-release-11 /Users/apple/.gradle/caches/8.10.2/transforms/48c43c1ca286f9b101106ccf629ba8da/transformed/ui-tooling-preview-release/res
+com.planradar.weatherassessment.app-lifecycle-livedata-core-2.6.2-12 /Users/apple/.gradle/caches/8.10.2/transforms/49ba41e31771d29d460f2e7a02c60c5f/transformed/lifecycle-livedata-core-2.6.2/res
+com.planradar.weatherassessment.app-core-ktx-1.12.0-13 /Users/apple/.gradle/caches/8.10.2/transforms/4b33c759d7d7f0c1c7f4164d46f53b39/transformed/core-ktx-1.12.0/res
+com.planradar.weatherassessment.app-sqlite-framework-2.4.0-14 /Users/apple/.gradle/caches/8.10.2/transforms/4bae7a8fa2808ee862f3df33548d441e/transformed/sqlite-framework-2.4.0/res
+com.planradar.weatherassessment.app-activity-1.8.0-15 /Users/apple/.gradle/caches/8.10.2/transforms/4e752f7e6d1d4f12d0f7f627c24ac219/transformed/activity-1.8.0/res
+com.planradar.weatherassessment.app-ui-text-release-16 /Users/apple/.gradle/caches/8.10.2/transforms/51b6c010095e45a725afb092d0707aa5/transformed/ui-text-release/res
+com.planradar.weatherassessment.app-material-ripple-release-17 /Users/apple/.gradle/caches/8.10.2/transforms/530a5d03c9be3da8728ed3df7d4fa2b6/transformed/material-ripple-release/res
+com.planradar.weatherassessment.app-appcompat-resources-1.6.1-18 /Users/apple/.gradle/caches/8.10.2/transforms/653bd5e52f1d093f53b1bc1bbdc837e1/transformed/appcompat-resources-1.6.1/res
+com.planradar.weatherassessment.app-lifecycle-viewmodel-ktx-2.6.2-19 /Users/apple/.gradle/caches/8.10.2/transforms/69bd273de7875dc2c71867b3bc294209/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.planradar.weatherassessment.app-navigation-common-2.7.6-20 /Users/apple/.gradle/caches/8.10.2/transforms/76f1fb1ffb85c4eded14e8c814c0bbe7/transformed/navigation-common-2.7.6/res
+com.planradar.weatherassessment.app-core-1.12.0-21 /Users/apple/.gradle/caches/8.10.2/transforms/7890f14e72b2a558e397004fbce41673/transformed/core-1.12.0/res
+com.planradar.weatherassessment.app-runtime-saveable-release-22 /Users/apple/.gradle/caches/8.10.2/transforms/8954138d89a14550ba8da351c3b02a7d/transformed/runtime-saveable-release/res
+com.planradar.weatherassessment.app-savedstate-1.2.1-23 /Users/apple/.gradle/caches/8.10.2/transforms/8ff31f3aa260fa7e8d0c9372e88a6768/transformed/savedstate-1.2.1/res
+com.planradar.weatherassessment.app-foundation-layout-release-24 /Users/apple/.gradle/caches/8.10.2/transforms/90898a7de99460fd3685177648335a39/transformed/foundation-layout-release/res
+com.planradar.weatherassessment.app-room-runtime-2.6.1-25 /Users/apple/.gradle/caches/8.10.2/transforms/915060d6a01df11fd8cb43e87a9094d0/transformed/room-runtime-2.6.1/res
+com.planradar.weatherassessment.app-customview-poolingcontainer-1.0.0-26 /Users/apple/.gradle/caches/8.10.2/transforms/92562443ccd3c0d1f8d85fe9b50801fa/transformed/customview-poolingcontainer-1.0.0/res
+com.planradar.weatherassessment.app-ui-tooling-data-release-27 /Users/apple/.gradle/caches/8.10.2/transforms/938e69cc47cff9c4edf2c4414af70462/transformed/ui-tooling-data-release/res
+com.planradar.weatherassessment.app-lifecycle-runtime-2.6.2-28 /Users/apple/.gradle/caches/8.10.2/transforms/943611a7d179ac88bb98eaeaf269cd26/transformed/lifecycle-runtime-2.6.2/res
+com.planradar.weatherassessment.app-foundation-release-29 /Users/apple/.gradle/caches/8.10.2/transforms/9a83f4273a46d06ea41fc2459b5e8a57/transformed/foundation-release/res
+com.planradar.weatherassessment.app-material-release-30 /Users/apple/.gradle/caches/8.10.2/transforms/9ceaeee44a8a4eac1fa0abcf810a1df0/transformed/material-release/res
+com.planradar.weatherassessment.app-ui-unit-release-31 /Users/apple/.gradle/caches/8.10.2/transforms/9de98ec30d22426e81f35aeab1a84273/transformed/ui-unit-release/res
+com.planradar.weatherassessment.app-ui-util-release-32 /Users/apple/.gradle/caches/8.10.2/transforms/9f659e3aecc1f7c8778f16ef9a9ab2c5/transformed/ui-util-release/res
+com.planradar.weatherassessment.app-animation-core-release-33 /Users/apple/.gradle/caches/8.10.2/transforms/a3e177de8ccd22b799a07e0b55e7025e/transformed/animation-core-release/res
+com.planradar.weatherassessment.app-navigation-runtime-2.7.6-34 /Users/apple/.gradle/caches/8.10.2/transforms/a3e82c5220213b0a9977ef2e0b80b54b/transformed/navigation-runtime-2.7.6/res
+com.planradar.weatherassessment.app-navigation-common-ktx-2.7.6-35 /Users/apple/.gradle/caches/8.10.2/transforms/a44b39dbcaeacb2792d1bb6ade94d9f4/transformed/navigation-common-ktx-2.7.6/res
+com.planradar.weatherassessment.app-core-runtime-2.2.0-36 /Users/apple/.gradle/caches/8.10.2/transforms/a5deb489a561599557a7e4417e28fc9d/transformed/core-runtime-2.2.0/res
+com.planradar.weatherassessment.app-ui-graphics-release-37 /Users/apple/.gradle/caches/8.10.2/transforms/aaf2e20a8511b5ea0aa5f27803b5d825/transformed/ui-graphics-release/res
+com.planradar.weatherassessment.app-runtime-release-38 /Users/apple/.gradle/caches/8.10.2/transforms/b036d33074fa314456fa57cd18d15b45/transformed/runtime-release/res
+com.planradar.weatherassessment.app-activity-ktx-1.8.0-39 /Users/apple/.gradle/caches/8.10.2/transforms/b4632908873718017d3aee46b0e16810/transformed/activity-ktx-1.8.0/res
+com.planradar.weatherassessment.app-ui-test-manifest-1.6.6-40 /Users/apple/.gradle/caches/8.10.2/transforms/b973aa50b8039d07e02003f6d422e707/transformed/ui-test-manifest-1.6.6/res
+com.planradar.weatherassessment.app-savedstate-ktx-1.2.1-41 /Users/apple/.gradle/caches/8.10.2/transforms/cf322a2214f071bee9ba7ddb11e62311/transformed/savedstate-ktx-1.2.1/res
+com.planradar.weatherassessment.app-startup-runtime-1.1.1-42 /Users/apple/.gradle/caches/8.10.2/transforms/dcef20682035aee45e54da181c0ecd6e/transformed/startup-runtime-1.1.1/res
+com.planradar.weatherassessment.app-lifecycle-livedata-2.6.2-43 /Users/apple/.gradle/caches/8.10.2/transforms/dd3cd380b3bea66aa327dafd3900b82e/transformed/lifecycle-livedata-2.6.2/res
+com.planradar.weatherassessment.app-lifecycle-runtime-ktx-2.6.2-44 /Users/apple/.gradle/caches/8.10.2/transforms/df5ea41d7c3b7aefb8a0b3bcb177820e/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.planradar.weatherassessment.app-material3-release-45 /Users/apple/.gradle/caches/8.10.2/transforms/e2d0569e1a3c2541260795846bfe7504/transformed/material3-release/res
+com.planradar.weatherassessment.app-room-ktx-2.6.1-46 /Users/apple/.gradle/caches/8.10.2/transforms/e5e4eac5f45be82493dba241afbfbdc9/transformed/room-ktx-2.6.1/res
+com.planradar.weatherassessment.app-coil-base-2.5.0-47 /Users/apple/.gradle/caches/8.10.2/transforms/e6c7d6dfafe7b266aa7a9fe296fc2dda/transformed/coil-base-2.5.0/res
+com.planradar.weatherassessment.app-annotation-experimental-1.4.0-48 /Users/apple/.gradle/caches/8.10.2/transforms/e73483af5ae62c204fb12ac0c89fc546/transformed/annotation-experimental-1.4.0/res
+com.planradar.weatherassessment.app-lifecycle-viewmodel-2.6.2-49 /Users/apple/.gradle/caches/8.10.2/transforms/e79c39878dd25b2c30e59729fb55f79b/transformed/lifecycle-viewmodel-2.6.2/res
+com.planradar.weatherassessment.app-ui-geometry-release-50 /Users/apple/.gradle/caches/8.10.2/transforms/ed332acc8220c226041f363541ebb4be/transformed/ui-geometry-release/res
+com.planradar.weatherassessment.app-material-icons-core-release-51 /Users/apple/.gradle/caches/8.10.2/transforms/ee8ed419f390e1780238aa54c796eeba/transformed/material-icons-core-release/res
+com.planradar.weatherassessment.app-fragment-1.5.1-52 /Users/apple/.gradle/caches/8.10.2/transforms/f39de04261d5e24cbb92ef55ba6e9146/transformed/fragment-1.5.1/res
+com.planradar.weatherassessment.app-hilt-navigation-1.2.0-53 /Users/apple/.gradle/caches/8.10.2/transforms/f4aa54803b900417e0d0afc5cc4a8cbf/transformed/hilt-navigation-1.2.0/res
+com.planradar.weatherassessment.app-lifecycle-process-2.6.2-54 /Users/apple/.gradle/caches/8.10.2/transforms/f6480b4736174455f5e3b26542644f50/transformed/lifecycle-process-2.6.2/res
+com.planradar.weatherassessment.app-ui-tooling-release-55 /Users/apple/.gradle/caches/8.10.2/transforms/fe658e4c5ddbb08cd3a6a03e8eee049d/transformed/ui-tooling-release/res
+com.planradar.weatherassessment.app-pngs-56 /Users/apple/My Storge/Work/weather/app/build/generated/res/pngs/debug
+com.planradar.weatherassessment.app-resValues-57 /Users/apple/My Storge/Work/weather/app/build/generated/res/resValues/debug
+com.planradar.weatherassessment.app-packageDebugResources-58 /Users/apple/My Storge/Work/weather/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.planradar.weatherassessment.app-packageDebugResources-59 /Users/apple/My Storge/Work/weather/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.planradar.weatherassessment.app-debug-60 /Users/apple/My Storge/Work/weather/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.planradar.weatherassessment.app-debug-61 /Users/apple/My Storge/Work/weather/app/src/debug/res
+com.planradar.weatherassessment.app-main-62 /Users/apple/My Storge/Work/weather/app/src/main/res
