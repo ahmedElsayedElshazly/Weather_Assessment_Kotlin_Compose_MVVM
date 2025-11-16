@@ -1,6 +1,6 @@
 package com.planradar.weatherassessment;
 
-import com.planradar.weatherassessment.cities.presentation.CitiesViewModel_HiltModules;
+import com.planradar.weatherassessment.cities.presentation.viewmodel.CitiesViewModel_HiltModules;
 import com.planradar.weatherassessment.core.di.DataBaseModule;
 import com.planradar.weatherassessment.core.di.LocalDataModule;
 import com.planradar.weatherassessment.core.di.NetModule;

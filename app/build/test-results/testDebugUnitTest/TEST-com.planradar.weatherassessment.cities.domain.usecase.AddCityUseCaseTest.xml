@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.planradar.weatherassessment.cities.domain.usecase.AddCityUseCaseTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-16T16:32:02" hostname="Ahmed-El-Shazly.local" time="0.909">
+  <properties/>
+  <testcase name="invoke with blank city name should return Error" classname="com.planradar.weatherassessment.cities.domain.usecase.AddCityUseCaseTest" time="0.889"/>
+  <testcase name="invoke with valid city name should return Success" classname="com.planradar.weatherassessment.cities.domain.usecase.AddCityUseCaseTest" time="0.009"/>
+  <testcase name="invoke with duplicate city should return Error" classname="com.planradar.weatherassessment.cities.domain.usecase.AddCityUseCaseTest" time="0.003"/>
+  <testcase name="invoke should trim city name before inserting" classname="com.planradar.weatherassessment.cities.domain.usecase.AddCityUseCaseTest" time="0.006"/>
+  <testcase name="invoke with whitespace only city name should return Error" classname="com.planradar.weatherassessment.cities.domain.usecase.AddCityUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

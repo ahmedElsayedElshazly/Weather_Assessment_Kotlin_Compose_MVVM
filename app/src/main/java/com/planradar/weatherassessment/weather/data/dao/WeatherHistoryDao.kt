@@ -18,8 +18,4 @@ interface WeatherHistoryDao {
     
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertWeatherHistory(weatherHistory: WeatherHistoryEntity)
-    
-    @Query("SELECT * FROM weather_history ORDER BY timestamp DESC")
-    fun getAllWeatherHistory(): Flow<List<WeatherHistoryEntity>>
 }
-

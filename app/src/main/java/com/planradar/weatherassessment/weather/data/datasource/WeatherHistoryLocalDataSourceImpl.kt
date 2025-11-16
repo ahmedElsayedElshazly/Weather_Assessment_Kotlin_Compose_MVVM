@@ -20,9 +20,5 @@ class WeatherHistoryLocalDataSourceImpl @Inject constructor(
     override suspend fun insertWeatherHistory(weatherHistory: WeatherHistoryEntity) {
         weatherHistoryDao.insertWeatherHistory(weatherHistory)
     }
-    
-    override fun getAllWeatherHistory(): Flow<List<WeatherHistoryEntity>> {
-        return weatherHistoryDao.getAllWeatherHistory()
-    }
 }
 

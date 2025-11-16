@@ -1,9 +1,12 @@
 package com.planradar.weatherassessment.weather.presentation.viewmodel;
 
+import android.content.Context;
 import androidx.lifecycle.ViewModel;
+import com.planradar.weatherassessment.R;
 import com.planradar.weatherassessment.weather.domain.model.WeatherHistory;
 import com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryUseCase;
 import dagger.hilt.android.lifecycle.HiltViewModel;
+import dagger.hilt.android.qualifiers.ApplicationContext;
 import kotlinx.coroutines.flow.StateFlow;
 import javax.inject.Inject;
 

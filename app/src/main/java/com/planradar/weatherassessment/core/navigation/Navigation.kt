@@ -6,7 +6,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.NavType
 import androidx.navigation.navArgument
-import com.planradar.weatherassessment.cities.presentation.ui.CitiesScreen
+import com.planradar.weatherassessment.cities.presentation.screen.CitiesScreen
 import com.planradar.weatherassessment.weather.presentation.screen.WeatherDetailScreen
 import com.planradar.weatherassessment.weather.presentation.screen.WeatherHistoryScreen
 

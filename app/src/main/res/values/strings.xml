@@ -24,6 +24,7 @@
     <string name="failed_to_load_weather">Failed to load weather</string>
     <string name="failed_to_load_weather_history">Failed to load weather history</string>
     <string name="failed_to_load_cities">Failed to load cities</string>
+    <string name="no_internet_access">No Internet Access</string>
     
     <!-- Empty States -->
     <string name="no_record_added_yet">No Record Added yet</string>

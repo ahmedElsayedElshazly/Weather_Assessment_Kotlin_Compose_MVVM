@@ -1,10 +1,13 @@
 package com.planradar.weatherassessment.weather.presentation.viewmodel
 
+import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.planradar.weatherassessment.R
 import com.planradar.weatherassessment.weather.domain.model.WeatherHistory
 import com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -14,7 +17,8 @@ import javax.inject.Inject
 
 @HiltViewModel
 class WeatherHistoryViewModel @Inject constructor(
-    private val getWeatherHistoryUseCase: GetWeatherHistoryUseCase
+    private val getWeatherHistoryUseCase: GetWeatherHistoryUseCase,
+    @ApplicationContext private val context: Context
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(WeatherHistoryUiState())
@@ -31,7 +35,7 @@ class WeatherHistoryViewModel @Inject constructor(
                 .catch { throwable ->
                     _uiState.value = _uiState.value.copy(
                         isLoading = false,
-                        error = throwable.message ?: "Failed to load weather history"
+                        error = throwable.message ?: context.getString(R.string.failed_to_load_weather_history)
                     )
                 }
                 .collect { historyList ->

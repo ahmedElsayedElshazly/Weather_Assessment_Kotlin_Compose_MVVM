@@ -78,8 +78,6 @@ fun BaseScreen(
                     .fillMaxHeight(0.35f),
                 contentScale = ContentScale.FillWidth
             )
-
-
         }
         Box(
             modifier = Modifier

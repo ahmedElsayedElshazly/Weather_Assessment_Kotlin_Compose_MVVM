@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_bold.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxxhdpi_ic_arrow_back.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xhdpi_ic_arrow_back.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-hdpi_ic_arrow_back.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-hdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-hdpi_ic_search.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/xml_backup_rules.xml.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_light.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_light.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxhdpi_ic_location_city.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxhdpi/ic_location_city.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-mdpi_screen_background.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-mdpi/screen_background.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxhdpi_ic_info.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_thin_italic.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_thin_italic.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxhdpi_ic_arrow_back.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-hdpi_ic_info.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-hdpi/ic_info.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_bold_italic.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_bold_italic.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xhdpi_ic_search.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxhdpi_screen_background.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxhdpi/screen_background.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_thin.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_thin.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-hdpi_ic_location_city.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-hdpi/ic_location_city.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xhdpi_ic_location_city.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xhdpi/ic_location_city.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-mdpi_ic_arrow_back.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-mdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xhdpi_screen_background.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xhdpi/screen_background.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxxhdpi_ic_info.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxxhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxxhdpi_screen_background.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxxhdpi/screen_background.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_black.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_black.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_italic.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_italic.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-mdpi_ic_search.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xxxhdpi_ic_location_city.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xxxhdpi/ic_location_city.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-xhdpi_ic_info.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-xhdpi/ic_info.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-hdpi_screen_background.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-hdpi/screen_background.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-mdpi_ic_info.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-mdpi/ic_info.png"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/font_roboto_black_italic.ttf.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/font/roboto_black_italic.ttf"
+    },
+    {
+        "merged": "com.planradar.weatherassessment.app-release-56:/drawable-mdpi_ic_location_city.png.flat",
+        "source": "com.planradar.weatherassessment.app-main-57:/drawable-mdpi/ic_location_city.png"
+    }
+]

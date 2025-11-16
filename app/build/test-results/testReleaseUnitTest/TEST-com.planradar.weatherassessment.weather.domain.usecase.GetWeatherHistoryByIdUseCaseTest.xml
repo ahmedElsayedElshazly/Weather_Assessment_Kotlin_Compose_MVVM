@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryByIdUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-16T16:32:06" hostname="Ahmed-El-Shazly.local" time="0.01">
+  <properties/>
+  <testcase name="invoke should return success result with weather history" classname="com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryByIdUseCaseTest" time="0.004"/>
+  <testcase name="invoke should return failure result when history not found" classname="com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryByIdUseCaseTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

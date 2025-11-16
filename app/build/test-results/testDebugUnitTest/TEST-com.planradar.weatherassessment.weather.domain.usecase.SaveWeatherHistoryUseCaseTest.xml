@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.planradar.weatherassessment.weather.domain.usecase.SaveWeatherHistoryUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-16T16:32:03" hostname="Ahmed-El-Shazly.local" time="0.096">
+  <properties/>
+  <testcase name="invoke should return failure when repository fails to save" classname="com.planradar.weatherassessment.weather.domain.usecase.SaveWeatherHistoryUseCaseTest" time="0.048"/>
+  <testcase name="invoke should return success when repository saves successfully" classname="com.planradar.weatherassessment.weather.domain.usecase.SaveWeatherHistoryUseCaseTest" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

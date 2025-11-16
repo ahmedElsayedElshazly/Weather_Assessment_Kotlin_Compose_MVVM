@@ -84,12 +84,12 @@
         "source": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-main-62:/drawable-xxhdpi/ic_location_city.png"
     },
     {
-        "merged": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-debug-60:/drawable-xhdpi_ic_search.png.flat",
-        "source": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-main-62:/drawable-xhdpi/ic_search.png"
-    },
-    {
         "merged": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-debug-60:/drawable-hdpi_ic_arrow_back.png.flat",
         "source": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-main-62:/drawable-hdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-debug-60:/drawable-xhdpi_ic_search.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-main-62:/drawable-xhdpi/ic_search.png"
     },
     {
         "merged": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-debug-60:/drawable-mdpi_ic_location_city.png.flat",
@@ -202,5 +202,9 @@
     {
         "merged": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-debug-60:/mipmap-anydpi_ic_launcher.xml.flat",
         "source": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-main-62:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-debug-60:/drawable_app_icon.xml.flat",
+        "source": "/Users/apple/.gradle/daemon/8.10.2/com.planradar.weatherassessment.app-main-62:/drawable/app_icon.xml"
     }
 ]

@@ -23,7 +23,6 @@ fun CityItem(
     onClick: () -> Unit = {},
     onInfoClick: () -> Unit = {}
 ) {
-
     Row(
         modifier = Modifier
             .fillMaxWidth()
@@ -67,13 +66,11 @@ fun CityItem(
 @Composable
 fun CityItemPreview() {
     WeatherAppAssessmentTheme {
-            CityItem(
-                city = CityEntity(
-                    id = 1,
-                    name = "London, UK"
-                )
+        CityItem(
+            city = CityEntity(
+                id = 1,
+                name = "London, UK"
             )
-
+        )
     }
 }
-

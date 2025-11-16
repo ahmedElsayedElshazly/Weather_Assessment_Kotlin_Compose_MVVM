@@ -42,6 +42,7 @@ string failed_to_load_weather_history
 string historical
 string humidity
 string km_per_hour
+string no_internet_access
 string no_record_added_yet
 string percent
 string retry

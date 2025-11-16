@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.planradar.weatherassessment.weather.domain.usecase.GetCurrentWeatherUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-16T16:32:03" hostname="Ahmed-El-Shazly.local" time="0.067">
+  <properties/>
+  <testcase name="invoke should return failure result when repository fails" classname="com.planradar.weatherassessment.weather.domain.usecase.GetCurrentWeatherUseCaseTest" time="0.063"/>
+  <testcase name="invoke should return success result with weather data" classname="com.planradar.weatherassessment.weather.domain.usecase.GetCurrentWeatherUseCaseTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

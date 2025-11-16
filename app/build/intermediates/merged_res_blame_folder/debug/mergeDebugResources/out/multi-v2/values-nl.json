@@ -4,7 +4,7 @@
             "outputFile": "com.planradar.weatherassessment.app-mergeDebugResources-58:/values-nl/values-nl.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/7890f14e72b2a558e397004fbce41673/transformed/core-1.12.0/res/values-nl/values-nl.xml",
+                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/569ea116ca3d296a42a9ca3aa16f5f0b/transformed/core-1.12.0/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/e2d0569e1a3c2541260795846bfe7504/transformed/material3-release/res/values-nl/values-nl.xml",
+                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/a0130614c42d2107285078682ae131eb/transformed/material3-release/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/9a83f4273a46d06ea41fc2459b5e8a57/transformed/foundation-release/res/values-nl/values-nl.xml",
+                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/fc4e44d92c63c577b1f745816906e707/transformed/foundation-release/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/02c478ec177721237f442007c919d56f/transformed/ui-release/res/values-nl/values-nl.xml",
+                    "source": "/Users/apple/.gradle/caches/8.10.2/transforms/06e6db8028a2665a484e6669dc4b05e4/transformed/ui-release/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

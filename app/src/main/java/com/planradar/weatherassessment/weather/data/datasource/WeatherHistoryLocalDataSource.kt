@@ -7,6 +7,5 @@ interface WeatherHistoryLocalDataSource {
     fun getWeatherHistoryByCity(cityName: String): Flow<List<WeatherHistoryEntity>>
     suspend fun getWeatherHistoryById(id: Long): WeatherHistoryEntity?
     suspend fun insertWeatherHistory(weatherHistory: WeatherHistoryEntity)
-    fun getAllWeatherHistory(): Flow<List<WeatherHistoryEntity>>
 }
 

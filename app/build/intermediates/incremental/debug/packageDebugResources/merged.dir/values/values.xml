@@ -25,6 +25,7 @@
     <string name="historical">historical</string>
     <string name="humidity">Humidity</string>
     <string name="km_per_hour"> km/h</string>
+    <string name="no_internet_access">No Internet Access</string>
     <string name="no_record_added_yet">No Record Added yet</string>
     <string name="percent">%</string>
     <string name="retry">Retry</string>

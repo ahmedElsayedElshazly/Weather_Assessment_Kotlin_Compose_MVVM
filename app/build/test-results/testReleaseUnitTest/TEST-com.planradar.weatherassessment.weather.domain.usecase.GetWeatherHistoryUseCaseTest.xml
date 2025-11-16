@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-16T16:32:06" hostname="Ahmed-El-Shazly.local" time="0.027">
+  <properties/>
+  <testcase name="invoke should return empty flow when no history exists" classname="com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryUseCaseTest" time="0.022"/>
+  <testcase name="invoke should return flow with weather history list" classname="com.planradar.weatherassessment.weather.domain.usecase.GetWeatherHistoryUseCaseTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

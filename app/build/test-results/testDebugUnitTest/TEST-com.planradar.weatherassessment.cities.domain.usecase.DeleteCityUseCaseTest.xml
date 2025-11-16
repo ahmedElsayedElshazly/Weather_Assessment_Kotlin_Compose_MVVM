@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.planradar.weatherassessment.cities.domain.usecase.DeleteCityUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-16T16:32:03" hostname="Ahmed-El-Shazly.local" time="0.043">
+  <properties/>
+  <testcase name="invoke should delete correct city entity" classname="com.planradar.weatherassessment.cities.domain.usecase.DeleteCityUseCaseTest" time="0.034"/>
+  <testcase name="invoke should call repository deleteCity" classname="com.planradar.weatherassessment.cities.domain.usecase.DeleteCityUseCaseTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
