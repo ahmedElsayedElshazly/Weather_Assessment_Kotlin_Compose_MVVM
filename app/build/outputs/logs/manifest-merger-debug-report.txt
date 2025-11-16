@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] /Users/apple/.gradle/caches/8.10.2/transforms/33e3360661a4227d61a6aa7ecde1f0d6/transformed/hilt-navigation-compose-1.2.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.hilt:hilt-navigation:1.2.0] /Users/apple/.gradle/caches/8.10.2/transforms/f4aa54803b900417e0d0afc5cc4a8cbf/transformed/hilt-navigation-1.2.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-common:2.7.6] /Users/apple/.gradle/caches/8.10.2/transforms/76f1fb1ffb85c4eded14e8c814c0bbe7/transformed/navigation-common-2.7.6/AndroidManifest.xml:17:1-22:12
@@ -86,9 +86,13 @@ MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] /Users/apple/.gradle/cach
 		INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:5:5-26:19
-INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:5:5-26:19
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:7:5-29:19
+INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:7:5-29:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/apple/.gradle/caches/8.10.2/transforms/fe658e4c5ddbb08cd3a6a03e8eee049d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.6] /Users/apple/.gradle/caches/8.10.2/transforms/fe658e4c5ddbb08cd3a6a03e8eee049d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.10.2/transforms/23d84a161ea21ab2116311094a1a7282/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
@@ -112,43 +116,45 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /Users/apple/.gradle/caches/8.10.2/transforms/7890f14e72b2a558e397004fbce41673/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:8:9-54
-	android:roundIcon
 		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:14:9-54
 	tools:targetApi
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:14:9-29
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:13:9-58
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:16:9-58
 	android:dataExtractionRules
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:7:9-65
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:8:9-43
 activity#com.planradar.weatherassessment.MainActivity
-ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:15:9-25:20
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:18:9-28:20
 	android:label
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:18:13-45
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:21:13-45
 	android:exported
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:20:13-36
 	android:theme
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:19:13-62
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:22:13-62
 	android:name
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/apple/My Storge/Work/weather/app/src/main/AndroidManifest.xml

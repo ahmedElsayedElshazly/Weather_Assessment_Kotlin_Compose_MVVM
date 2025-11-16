@@ -18,5 +18,4 @@ class DataBaseModule {
     fun provideAppDataBase(app: Application): AppDataBase {
         return Room.databaseBuilder(app, AppDataBase::class.java, "weatherdatabase").build()
     }
-
 }

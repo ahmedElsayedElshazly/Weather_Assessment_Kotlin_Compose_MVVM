@@ -13,4 +13,6 @@ public final class BuildConfig {
   public static final String API_KEY = "f5cb0b965ea1564c50c6f1b74534d823";
   // Field from default config.
   public static final String BASE_URL = "https://api.openweathermap.org/data/2.5/";
+  // Field from default config.
+  public static final String WEATHER_ICON_BASE_URL = "https://openweathermap.org/img/w/";
 }

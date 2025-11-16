@@ -7,6 +7,30 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="add">Add</string>
+    <string name="add_city">Add city</string>
+    <string name="add_city_content_description">Add city</string>
+    <string name="add_city_dialog_title">Add City</string>
     <string name="app_name">Weather App Assessment</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="cities">Cities</string>
+    <string name="city_name_label">City name</string>
+    <string name="degree_celsius">°C</string>
+    <string name="degree_celsius_space">° C</string>
+    <string name="description">Description</string>
+    <string name="failed_to_load_cities">Failed to load cities</string>
+    <string name="failed_to_load_weather">Failed to load weather</string>
+    <string name="failed_to_load_weather_history">Failed to load weather history</string>
+    <string name="historical">historical</string>
+    <string name="humidity">Humidity</string>
+    <string name="km_per_hour"> km/h</string>
+    <string name="no_record_added_yet">No Record Added yet</string>
+    <string name="percent">%</string>
+    <string name="retry">Retry</string>
+    <string name="temperature">Temperature</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="weather_info_received">Weather information for %1$s received on\n %2$s</string>
+    <string name="windspeed">Windspeed</string>
     <style name="Theme.WeatherAppAssessment" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

@@ -108,8 +108,13 @@
     <item name="visible_removing_fragment_view_tag" type="id"/>
     <item name="wrapped_composition_tag" type="id"/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="add">Add</string>
+    <string name="add_city">Add city</string>
+    <string name="add_city_content_description">Add city</string>
+    <string name="add_city_dialog_title">Add City</string>
     <string name="androidx_startup" translatable="false">androidx.startup</string>
     <string name="app_name">Weather App Assessment</string>
+    <string name="back">Back</string>
     <string name="call_notification_answer_action">Answer</string>
     <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Decline</string>
@@ -117,13 +122,25 @@
     <string name="call_notification_incoming_text">Incoming call</string>
     <string name="call_notification_ongoing_text">Ongoing call</string>
     <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="cancel">Cancel</string>
+    <string name="cities">Cities</string>
+    <string name="city_name_label">City name</string>
     <string name="close_drawer">"Close navigation menu"</string>
     <string name="close_sheet">"Close sheet"</string>
     <string name="default_error_message">"Invalid input"</string>
     <string name="default_popup_window_title" ns1:ignore="ExtraTranslation">"Pop-Up Window"</string>
+    <string name="degree_celsius">°C</string>
+    <string name="degree_celsius_space">° C</string>
+    <string name="description">Description</string>
     <string name="dropdown_menu">"Dropdown menu"</string>
+    <string name="failed_to_load_cities">Failed to load cities</string>
+    <string name="failed_to_load_weather">Failed to load weather</string>
+    <string name="failed_to_load_weather_history">Failed to load weather history</string>
+    <string name="historical">historical</string>
+    <string name="humidity">Humidity</string>
     <string name="in_progress">In progress</string>
     <string name="indeterminate">Partially checked</string>
+    <string name="km_per_hour"> km/h</string>
     <string name="m3c_bottom_sheet_collapse_description">Collapse bottom sheet</string>
     <string name="m3c_bottom_sheet_dismiss_description">Dismiss bottom sheet</string>
     <string name="m3c_bottom_sheet_drag_handle_description">Drag handle</string>
@@ -185,18 +202,25 @@
     <string name="m3c_tooltip_long_press_label">Show tooltip</string>
     <string name="m3c_tooltip_pane_description">Tooltip</string>
     <string name="navigation_menu">"Navigation menu"</string>
+    <string name="no_record_added_yet">No Record Added yet</string>
     <string name="not_selected">Not selected</string>
     <string name="off">Off</string>
     <string name="on">On</string>
+    <string name="percent">%</string>
     <string name="range_end">"Range end"</string>
     <string name="range_start">"Range start"</string>
+    <string name="retry">Retry</string>
     <string name="selected">Selected</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="switch_role">Switch</string>
     <string name="tab">Tab</string>
+    <string name="temperature">Temperature</string>
     <string name="template_percent"><ns2:g id="percentage">%1$d</ns2:g> percent.</string>
     <string name="tooltip_description">tooltip</string>
     <string name="tooltip_label">show tooltip</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="weather_info_received">Weather information for %1$s received on\n %2$s</string>
+    <string name="windspeed">Windspeed</string>
     <style name="DialogWindowTheme">
         <item name="android:windowClipToOutline">false</item>
     </style>
@@ -287,23 +311,14 @@
         <attr format="reference" name="fontProviderCerts"/>
         
         <attr name="fontProviderFetchStrategy">
-            <!-- The blocking font fetch works as follows.
-              First, check the local cache, then if the requested font is not cached, request the
-              font from the provider and wait until it is finished.  You can change the length of
-              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
-              default typeface will be used instead. -->
+            
             <enum name="blocking" value="0"/>
-            <!-- The async font fetch works as follows.
-              First, check the local cache, then if the requeted font is not cached, trigger a
-              request the font and continue with layout inflation. Once the font fetch succeeds, the
-              target text view will be refreshed with the downloaded font data. The
-              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            
             <enum name="async" value="1"/>
         </attr>
         
         <attr format="integer" name="fontProviderFetchTimeout">
-            <!-- A special value for the timeout. In this case, the blocking font fetching will not
-              timeout and wait until a reply is received from the font provider. -->
+            
             <enum name="forever" value="-1"/>
         </attr>
         

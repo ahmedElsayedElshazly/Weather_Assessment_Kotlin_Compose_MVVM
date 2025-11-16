@@ -6,6 +6,8 @@ import dagger.internal.Preconditions;
 import dagger.internal.QualifierMetadata;
 import dagger.internal.ScopeMetadata;
 import javax.annotation.processing.Generated;
+import javax.inject.Provider;
+import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
 @ScopeMetadata("javax.inject.Singleton")
@@ -25,20 +27,25 @@ import retrofit2.Retrofit;
 public final class NetModule_ProvideRetrofitFactory implements Factory<Retrofit> {
   private final NetModule module;
 
-  public NetModule_ProvideRetrofitFactory(NetModule module) {
+  private final Provider<OkHttpClient> okHttpClientProvider;
+
+  public NetModule_ProvideRetrofitFactory(NetModule module,
+      Provider<OkHttpClient> okHttpClientProvider) {
     this.module = module;
+    this.okHttpClientProvider = okHttpClientProvider;
   }
 
   @Override
   public Retrofit get() {
-    return provideRetrofit(module);
+    return provideRetrofit(module, okHttpClientProvider.get());
   }
 
-  public static NetModule_ProvideRetrofitFactory create(NetModule module) {
-    return new NetModule_ProvideRetrofitFactory(module);
+  public static NetModule_ProvideRetrofitFactory create(NetModule module,
+      Provider<OkHttpClient> okHttpClientProvider) {
+    return new NetModule_ProvideRetrofitFactory(module, okHttpClientProvider);
   }
 
-  public static Retrofit provideRetrofit(NetModule instance) {
-    return Preconditions.checkNotNullFromProvides(instance.provideRetrofit());
+  public static Retrofit provideRetrofit(NetModule instance, OkHttpClient okHttpClient) {
+    return Preconditions.checkNotNullFromProvides(instance.provideRetrofit(okHttpClient));
   }
 }
